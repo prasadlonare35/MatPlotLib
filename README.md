@@ -48,8 +48,8 @@ Matplotlib is a widely used library for creating static, animated, and interacti
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/matplotlib-learning.git
-   cd matplotlib-learning
+   git clone https://github.com/prasadlonare35/MatPlotLib.git
+   cd MatPlotLib
 2. Run any of the Python scripts:
    ```bash
     python 01_LineChart.py
