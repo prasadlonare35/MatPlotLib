@@ -3,7 +3,7 @@
 This repository contains Python scripts that demonstrate basic to intermediate concepts of **Matplotlib**, a powerful Python library for data visualization.
 
 ## 📖 About Matplotlib
-Matplotlib is a widely used library for creating static, animated, and interactive visualizations in Python. It provides simple and flexible APIs to build various types of plots and charts.
+Matplotlib is a widely used library for creating static, animated, and interactive visualizations in Python. It provides simple and flexible APIs to build various types of plots and charts. 
 
 ## ✨ Key Features:
 - Supports a wide variety of plots (line, bar, scatter, pie, histogram, box plots, etc.).
